@@ -1,0 +1,12 @@
+[
+  { "sku": "CAF-MOL-500", "producto": "Café molido 500 g", "precio": 9800, "stock": 12 },
+  { "sku": "CAF-MOL-250", "producto": "Café molido 250 g", "precio": 5400, "stock": 20 },
+  { "sku": "CAF-GRA-500", "producto": "Café en grano 500 g", "precio": 10500, "stock": 8 },
+  { "sku": "CAF-GRA-1K", "producto": "Café en grano 1 kg", "precio": 19500, "stock": 0 },
+  { "sku": "CAF-DES-250", "producto": "Café descafeinado 250 g", "precio": 6200, "stock": 5 },
+  { "sku": "ACC-PRE-350", "producto": "Prensa francesa 350 ml", "precio": 18900, "stock": 4 },
+  { "sku": "ACC-MOK-3", "producto": "Cafetera moka 3 tazas", "precio": 24500, "stock": 3 },
+  { "sku": "ACC-MOL-MAN", "producto": "Molinillo manual", "precio": 32000, "stock": 0 },
+  { "sku": "ACC-FIL-100", "producto": "Filtros de papel x100", "precio": 3200, "stock": 30 },
+  { "sku": "ACC-TAZ-CER", "producto": "Taza de cerámica", "precio": 7500, "stock": 10 }
+]

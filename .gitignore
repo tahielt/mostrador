@@ -1,0 +1,5 @@
+node_modules/
+.env
+credenciales/
+logs/
+data/local-db.json

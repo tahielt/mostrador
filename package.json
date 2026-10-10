@@ -1,0 +1,26 @@
+{
+  "name": "mostrador",
+  "version": "0.1.0",
+  "description": "Agente de ventas con IA que atiende WhatsApp Business e Instagram desde un Android (ARTEMIS + MCP), con catálogo en Google Sheets, aprobación humana y cobros con Mercado Pago.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo": "tsx src/demo.ts",
+    "start": "tsx src/index.ts",
+    "test": "node --import tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "google-auth-library": "^11.2.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
